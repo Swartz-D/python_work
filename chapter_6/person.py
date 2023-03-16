@@ -56,3 +56,6 @@ for river in rivers:
 
 for country in set(rivers.values()):
     print(country.title())
+
+# 6-6
+
